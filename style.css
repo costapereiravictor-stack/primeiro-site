@@ -18,3 +18,19 @@
     color:yellow
    }
    
+
+   button{
+       background-color: rgb(255, 255, 255);
+       padding: 10px 20px;
+       margin: 10px;
+       border-radius: 10px;
+   }
+
+   span{
+      font-size: 20px;
+      color: red;
+   }
+    div{
+        display: flex;
+        flex-direction: column;
+    }
